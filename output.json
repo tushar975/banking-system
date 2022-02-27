@@ -1,0 +1,14 @@
+[
+	{
+		"accNumber" : "A1000",
+		"balance" : "1000",
+		"id" : "0",
+		"name" : "codegenes.net"
+	},
+	{
+		"accNumber" : "A1001",
+		"balance" : "0",
+		"id" : "1",
+		"name" : "Code Genius"
+	}
+]
